@@ -1,0 +1,22 @@
+{
+  "tutorials": [
+    {
+        "id": 1,
+        "title":"redux-tutorial",
+        "description" : "tutorial related to redux",
+        "published" :true
+    },
+    {
+        "id": 2,
+        "title":"redux-tutorial",
+        "description" : "tutorial related to redux",
+        "published" :true
+    },
+    {
+        "id": 3,
+        "title":"redux-tutorial",
+        "description" : "tutorial related to redux",
+        "published" :true
+    }
+  ]
+}
